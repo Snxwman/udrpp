@@ -1,2 +1,5 @@
-# udrpp
-Universal Discord Rich Presence Proxy
+<div align="center">
+
+# Universal Discord Rich Presence Proxy
+
+</div>
